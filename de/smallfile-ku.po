@@ -4,7 +4,7 @@ msgstr "Ein Screenshot einer Website mit AMP."
 
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:22
 msgid "A scr AMP."
-msgstr "Ein Scr-AMP."
+msgstr "Ein Scr-AMP kgkgk."
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
